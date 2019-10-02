@@ -62,8 +62,7 @@
               </div>
               <ul id="myUL">
                 <li>start the visit</li>
-                <li class="checked">read the files</li>
-                <li>search for churches</li>
+                               <li>search for churches</li>
                 <li>having the lunch</li>
                 <li>to the house</li>
               </ul>
