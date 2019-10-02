@@ -61,11 +61,11 @@
                 <span onclick="newElement()" class="addBtn">Add</span>
               </div>
               <ul id="myUL">
-                <li>start the les</li>
+                <li>start the visit</li>
                 <li class="checked">read the files</li>
-                <li>write my code</li>
-                <li>test the code</li>
-                <li>search</li>
+                <li>search for churches</li>
+                <li>having the lunch</li>
+                <li>to the house</li>
               </ul>
    </body>
 </html>
