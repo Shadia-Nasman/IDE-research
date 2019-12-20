@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>first page</title>
+     My first page taining HTML
    </head>
    <body>
       <img src="https://www.telegraph.co.uk/content/dam/Travel/2018/December/belgium-brussels.jpg?imwidth=450" />
